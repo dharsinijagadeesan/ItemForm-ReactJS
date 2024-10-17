@@ -1,74 +1,43 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## ItemsForm App
 
-## Available Scripts
+# Overview
 
-In the project directory, you can run:
+The ItemsForm App is a simple yet powerful web application that enables users to add new items through a form and display them in a list. This project emphasizes fundamental web development principles such as form handling, state management, and dynamic rendering.
 
-### `npm start`
+# Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Add New Items: Users can enter details for new items, such as name, description, and price, and submit them through a form.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Display Item List: All added items are displayed in a clean, organized list format, allowing users to easily view their entries.
 
-### `npm test`
+Validation: Basic form validation ensures that all required fields are filled out before submission.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Responsive Design: The app is fully responsive, providing an optimal user experience across various devices, including desktops, tablets, and smartphones.
 
-### `npm run build`
+Persistent State: Added items persist even after refreshing the page using local storage.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Technologies Used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Frontend: ReactJS
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Styling: CSS 
 
-### `npm run eject`
+State Management: React Hooks 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Deployment: Netlify
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Live Demo
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+https://itemsform-reactjs-deploy.netlify.app/
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# OUTPUT SCREENSHOTS
 
-## Learn More
+![Screenshot (882)](https://github.com/user-attachments/assets/fd9a4c63-0c65-49c3-97f7-30e09a69568b)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Screenshot (883)](https://github.com/user-attachments/assets/c70aa153-7c4b-42a6-af51-28f68501fc92)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Screenshot (884)](https://github.com/user-attachments/assets/414d69ff-4447-4c5f-b1f2-57211839d670)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# ItemForm-ReactJS
->>>>>>> 6d6d25ec561b8fd15b65fbea66dbec66275012a8
